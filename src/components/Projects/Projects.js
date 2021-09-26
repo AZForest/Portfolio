@@ -2,13 +2,13 @@ import React from 'react';
 import classes from './Projects.module.css';
 import Project from './Project/Project';
 import weatherPic from '../../assets/images/WeatherFinder.png';
-import weatherVid from '../../assets/videos/WeatherFinder.mov';
+import weatherVid from '../../assets/images/WeatherFinder.png';
 import flightPic from '../../assets/images/FlightBookerImg.png';
-import flightVid from '../../assets/videos/FlightBooker.mov';
+import flightVid from '../../assets/images/FlightBookerImg.png';
 import matchingPic from '../../assets/images/MatchingGameImg.png';
-import matchingVid from '../../assets/videos/MatchingGame.mov';
+import matchingVid from '../../assets/images/MatchingGameImg.png';
 import storePic from '../../assets/images/StoreImg.png';
-import storeVid from '../../assets/videos/OnlineStore.mov';
+import storeVid from '../../assets/images/StoreImg.png';
 import Modal from '../Modal/Modal';
 
 class Projects extends React.Component {
