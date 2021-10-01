@@ -1,1 +1,1 @@
-Inactive. See [PortfolioSite2](https://azforest.github.io/PortfolioSite2/) for active portfolio.
+Inactive. See [PortfolioSite2](https://github.com/AZForest/PortfolioSite2) for active portfolio.
